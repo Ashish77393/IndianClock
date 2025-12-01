@@ -6,7 +6,7 @@ function ClockSlogan() {
       </p>
 
       <img 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Analog_watch_face.svg/2048px-Analog_watch_face.svg.png" 
+        src="https://tse1.mm.bing.net/th/id/OIP.JyEDNP2oq24MwNlKXdkehAHaGR?pid=Api&P=0&h=180" 
         alt="Bharat Clock Watch" 
         width="200"
       />
